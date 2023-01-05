@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Admin = () => {
+function adminPage() {
   return (
     <div>
-      
+    <Btn />
     </div>
   )
 }
 
-export default Admin
+export default adminPage
